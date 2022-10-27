@@ -1,0 +1,18 @@
+{
+  "vuelos": [
+    {
+      "id": 1,
+      "tipoVuelo": false,
+      "paisOrigen": "Colombia",
+      "paisDestino": "Colombia",
+      "fechaSalida": "00/00/0000",
+      "fechaLlegada": "00/00/0000",
+      "cupon": false,
+      "totalPersonas": {
+        "adultos": 1,
+        "niños": 1,
+        "bebes": 0
+      }
+    }
+  ]
+}
